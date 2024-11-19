@@ -5,8 +5,8 @@ Link untuk deployment: [Props Component](https://fatahpratam.github.io/tutorial-
 
 ## Detail lebih lanjut tentang jsx
 - Karena beberapa keyword digunakan oleh JavaScript, beberapa attribute html dikonversi menjadi berikut:
-- class -> className
-- for -> htmlFor
+- `class` -> `className`
+- `for` -> `htmlFor`
 - Untuk menggunakan array dan object sebagai component argument, dapat menggunakan {}. Contoh:
 ```jsx
 <App myArray={[1, 2, 3]} />
