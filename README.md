@@ -3,6 +3,10 @@
 ## GitHub Pages
 Link untuk deployment: [Props Component](https://fatahpratam.github.io/tutorial-react-component/)
 
+## Youtube Tutorial
+- Link: [Full Stack React Developer Course with Appwrite](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
+- Creator: [HiteshCodeLab](https://www.youtube.com/@HiteshCodeLab)
+
 ## Detail lebih lanjut tentang jsx
 - Karena beberapa keyword digunakan oleh JavaScript, beberapa attribute html dikonversi menjadi berikut:
 - `class` -> `className`
