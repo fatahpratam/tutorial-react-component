@@ -1,8 +1,8 @@
 import './App.css'
 // import { useState } from 'react'
-import Card from './component/Card.jsx';
+import Card from './Card.jsx';
 import Header from './Header.jsx';
-import { rocksImg } from "./assets/index.js";
+import { rocksImg } from "../assets/index.js";
 
 function App() {
   /* const [count, setCount] = useState(0)
