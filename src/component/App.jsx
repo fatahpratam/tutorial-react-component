@@ -30,7 +30,7 @@ function App() {
       {/* <h1 className='text-3xl bg-green-500 p-3 rounded-md'>Vite with Tailwind</h1> */}
       <Card username="azura" myArr={newArr} />
       <Card username='Json' post='Staff Engineer' />
-      <Card imageUrl='./src/assets/react.svg' />
+      <Card imageUrl={rocksImg} />
     </>
   )
 }

@@ -1,6 +1,7 @@
 import React from 'react';
+import { rocksImg } from "../assets/index.js";
 
-function Card({ username = 'Azura', post = 'Not assigned yet', imageUrl = './src/assets/rocks.jpg' }) {
+function Card({ username = 'Azura', post = 'Not assigned yet', imageUrl = rocksImg }) {
   return (
     <div>
       <figure className="bg-slate-100 rounded-xl p-8 dark:bg-slate-800">
