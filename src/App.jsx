@@ -1,7 +1,6 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import rocksImg from './assets/rocks.jpg';
+import { useState } from 'react'
 import Card from './component/Card.jsx';
 import Header from './Header.jsx';
 
@@ -31,7 +30,7 @@ function App() {
       {/* <h1 className='text-3xl bg-green-500 p-3 rounded-md'>Vite with Tailwind</h1> */}
       <Card username="azura" myArr={newArr} />
       <Card username='Json' post='Staff Engineer' />
-      <Card imageUrl='./src/assets/react.svg' />
+      <Card imageUrl={rocksImg} />
     </>
   )
 }
