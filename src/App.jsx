@@ -1,11 +1,11 @@
 import './App.css'
-import rocksImg from './assets/rocks.jpg';
-import { useState } from 'react'
+// import { useState } from 'react'
 import Card from './component/Card.jsx';
 import Header from './Header.jsx';
+import { rocksImg } from "./assets/index.js";
 
 function App() {
-  const [count, setCount] = useState(0)
+  /* const [count, setCount] = useState(0)
 
   let myObj = {
     name: 'Azura',
@@ -15,7 +15,7 @@ function App() {
       state: 'DEF',
       country: 'GHI'
     }
-  }
+  } */
 
   let newArr = [1, 2, 3, 4, 5];
 

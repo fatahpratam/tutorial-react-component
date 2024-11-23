@@ -1,0 +1,1 @@
+export { default as rocksImg } from './rocks.jpg';
